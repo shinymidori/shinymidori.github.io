@@ -66,19 +66,21 @@ export default function TastemapNavbar() {
                     <Form.Label
                         htmlFor="navbar-search"
                         className="visually-hidden"
-                    >
-                        Search cat food products
+                    > Search cat food products
                     </Form.Label>
 
                     <FormControl
-                        aria-label="Search"
+                        id="navbar-search"
                         type="search"
                         placeholder="Search"
                         className="me-2"
                         value={query}
                         onChange={(e) => setQuery(e.target.value)}
                     />
-                    <Button variant="outline-primary" type="submit">Search</Button>
+
+                    <Button variant="outline-primary" type="submit">
+                        Search
+                    </Button>
                 </Form>
 
                 <Navbar.Toggle aria-controls="navbar-nav" />
