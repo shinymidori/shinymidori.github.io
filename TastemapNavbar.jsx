@@ -63,6 +63,13 @@ export default function TastemapNavbar() {
                         <option value="Others">Others</option>
                     </Form.Select>
 
+                    <Form.Label
+                        htmlFor="navbar-search"
+                        className="visually-hidden"
+                    >
+                        Search cat food products
+                    </Form.Label>
+
                     <FormControl
                         aria-label="Search"
                         type="search"
