@@ -47,7 +47,7 @@
 }
 
 .navbar-form button {
-    background-color: #978eaa;
+    background-color: #42257c;
     border: none;
     color: white;
     padding: 0.4rem 1rem;
@@ -56,7 +56,7 @@
 }
 
 .navbar-form button:hover {
-    background-color: #4d455e;
+    background-color: #1a814f;
 }
 
 @media (max-width: 768px) {
