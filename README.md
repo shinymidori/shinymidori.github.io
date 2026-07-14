@@ -1,1 +1,11 @@
 # shinymidori.github.io
+homepage image: Black cat by Rhonda Callow from https://posterjack.ca/blogs/inspiration/10-awesome-pictures-of-cats-to-help-you-master-cat-photography?srsltid=AfmBOorsTjvMXZJXFWC0qWLfnO44ZyaqNVSnsTc2Xgfi8RPvwfprJgRD  
+Feline Natural Pate - Beef and Hoki: Feline Natural Canned Cat Food - Beef & Hoki Feast by HomesAlivePets from https://www.homesalive.ca/feline-natural-canned-cat-food-beef-hoki-feast.html  
+Feline Natural Pate - Chicken and Venision: Feline Natural Canned Cat Food - Chicken & Venison Feast by HomesAlivePets from https://www.homesalive.ca/feline-natural-canned-cat-food-chicken-venison-feast.html  
+Canada fresh - Beef: Canada Fresh Cat Canned Food - Beef by HomesAlivePets from https://www.homesalive.ca/canada-fresh-cat-canned-food-beef.html  
+Rawz Pate - Chicken & Herring: RAWZ 96% Chicken & Herring Pate for Cats by HomesAlivePets from https://www.homesalive.ca/rawz-96-chicken-and-herring-pate-for-cats.html  
+Orijen Pate - Shredded Chicken: Orijen Wholeprey Original Entrée Pâté With Shredded Chicken Cat Food, Adult-All Breeds (155 g) by Uber Eats from https://www.ubereats.com/ca/product/b/1a7f3e31-cee7-566c-a1ee-1d7e7e0ae8ba?srsltid=AfmBOooQiH8vdAR76E7eqZ8d5RHrrfZlI-UmNfjnSODzW7bf2yjpNyAP  
+Royal Canin - Calm: Royal Canin Veterinary Diet FELINE Urinary SO Aging 7+ + Calm Canned Cat Food-Loaf by Mahogany from https://mahoganyvet.ca/products/royal-canin-veterinary-diet-feline-urinary-so-aging-7-calm-canned-cat-food-loaf  
+Wellness Core Pate - whitefish, salmon and Herring: Wellness Wet Cat Food - Core Whitefish, Salmon & Herring Grain Free Recipe Pate Canned by Toronto Pets from https://www.torontopets.ca/products/wellness-wet-cat-food-core-whitefish-salmon-herring-grain-free-recipe-pate-canned?srsltid=AfmBOopzZyMzm9mvvBZr-Wr745CjSdGlolFM6J8UHeWXtebStHGNebBz  
+Raw Pate - Turkey, Turkey Liver and Goat's Milk: Rawz Wet Cat Food - With Goat's Milk 96% Turkey & Turkey Liver Canned by Toronto Pets from https://www.torontopets.ca/products/rawz-wet-cat-food-with-goats-milk-96-turkey-turkey-liver-canned?srsltid=AfmBOoqESEsv5J_3Arl2sT-QL1dEcKPswvubcL5uHr540Ci_G6OvAz7y&variant=50516893663536  
+Feline Natrual Pate - Lamb: Feline Natural Canned Cat Food - Lamb Feast by HomesAlivePets from https://www.homesalive.ca/feline-natural-canned-cat-food-lamb-feast.html
