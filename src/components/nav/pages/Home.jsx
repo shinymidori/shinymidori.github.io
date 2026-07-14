@@ -16,7 +16,7 @@ export default function Home() {
             />
             <h2> How to feed your cat?</h2>
             <p>Learn more about what cats need on the{" "}
-                <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feeding-your-cat">Advices from Cornell</a>.
+                <a href="https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feeding-your-cat" style={{ color: "#87650f" }}>Advices from Cornell</a>.
             </p>
 
             <h2>Let's make a list to see waht we need</h2>
