@@ -65,7 +65,7 @@ export default function CanNavbar() {
 
                     <Form.Label
                         htmlFor="navbar-search"
-                    >  
+                    > .
                     </Form.Label>
 
                     <FormControl
