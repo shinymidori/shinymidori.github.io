@@ -140,7 +140,14 @@ export default function Register() {
                     type="button"
                     className="btn btn-link p-0"
                     onClick={() => navigate("/login")}
-                    style={{ color: "#87650f" }}
+                    style={{
+                        color: "#87650f",
+                        background: "none",
+                        border: "none",
+                        padding: 0,
+                        textDecoration: "underline",
+                        cursor: "pointer"
+                    }}
                 >
                     Log in
                 </button>
