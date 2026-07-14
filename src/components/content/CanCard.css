@@ -18,15 +18,15 @@
 }
 
 .can-card .btn {
-    background-color: #809AFF;
+    background-color: #42257c;
     color: white;
     border: none;
 }
 
 .can-card .btn:hover {
-    background-color: #978EAA;
+    background-color: #15753e;
 }
 
 .like-btn.liked {
-    background-color: #A97EFE;
+    background-color: #cf5337;
 }
