@@ -1,0 +1,32 @@
+.can-card {
+    /* Cheese yellow */
+    border: 3px solid #809AFF;
+    /* Sky blue */
+    border-radius: 12px;
+    color: #2d2d2d;
+    transition: transform 0.2s ease;
+}
+
+.can-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 10px rgba(99, 195, 240, 0.4);
+}
+
+.can-card .card-title {
+    color: #2d2d2d;
+    font-weight: bold;
+}
+
+.can-card .btn {
+    background-color: #809AFF;
+    color: white;
+    border: none;
+}
+
+.can-card .btn:hover {
+    background-color: #978EAA;
+}
+
+.like-btn.liked {
+    background-color: #A97EFE;
+}
