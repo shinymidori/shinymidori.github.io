@@ -65,7 +65,6 @@ export default function CanNavbar() {
 
                     <Form.Label
                         htmlFor="navbar-search"
-                        className="visually-hidden"
                     > Search cat food products
                     </Form.Label>
 
